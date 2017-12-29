@@ -1,0 +1,1 @@
+/u/home/s/sparhami/nobackup-dhg/tools/SalmonTE/salmon/linux/bin/salmon quant -q -i /u/home/s/sparhami/nobackup-dhg/tools/SalmonTE/reference/hs -l A -1 /tmp/tmprpr_d2xi/39673_ACC_cat_R1.fastq -2 /tmp/tmprpr_d2xi/39673_ACC_cat_R2.fastq -o /u/project/geschwind/gandalm/NHP_MIA_RNAseq/data/SalmonTE/quant0/39673_ACC_cat -p 4

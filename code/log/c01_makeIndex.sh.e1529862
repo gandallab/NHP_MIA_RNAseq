@@ -1,5 +1,0 @@
-
-EXITING because of FATAL PARAMETER ERROR: limitGenomeGenerateRAM=31000000000is too small for your genome
-SOLUTION: please specify limitGenomeGenerateRAM not less than206609344554 and make that much RAM available 
-
-Jan 20 20:59:56 ...... FATAL ERROR, exiting
