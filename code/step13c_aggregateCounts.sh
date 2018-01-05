@@ -5,10 +5,9 @@
 
 ## define directories
 BASEDIR=/u/project/geschwind/gandalm/NHP_MIA_RNAseq
-QUANTDIR=$BASEDIR/data/Salmon_DESeq2/hs_quant
-COUNTDIR=$BASEDIR/data/Salmon_DESeq2/hs_counts
+QUANTDIR=$BASEDIR/data/Salmon_DESeq2/quant_files
+COUNTDIR=$BASEDIR/data/Salmon_DESeq2/counts
 FQDIR=$BASEDIR/data/fastq_unzipped
-
 cd $COUNTDIR
 
 ## initialize files for writing results

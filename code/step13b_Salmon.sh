@@ -5,13 +5,16 @@
 SALMON_BIN=/u/nobackup/dhg/Software/salmon/Salmon-0.7.2_linux_x86_64/bin/salmon
 
 ## define directories
-REFDIR=/u/nobackup/dhg/sparhami/tools/SalmonTE/reference/scripts
+RBDIR=/u/nobackup/dhg/sparhami/tools/RepBase
 BASEDIR=/u/project/geschwind/gandalm/NHP_MIA_RNAseq
 FQDIR=$BASEDIR/data/fastq_unzipped
 
+## Fasta of primate repeat sequences from RepBase 22.12
+FASTA=$RBDIR/primateTE.fa
+
 
 ## create index for RepeatMasker MMU transposable elements
-#$SALMON_BIN index -t $REFDIR/mmu.fa -i $REFDIR/mmu_index --type quasi -k 31
+$SALMON_BIN index -t $FASTA -i $RBDIR/primate_index --type quasi -k 31
 
 ## set up list of fastqs
 FQ1_TXT=$BASEDIR/data/Salmon_DESeq2/fq1.txt

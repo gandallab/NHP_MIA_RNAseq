@@ -11,9 +11,10 @@
 SALMON_BIN=/u/nobackup/dhg/Software/salmon/Salmon-0.7.2_linux_x86_64/bin/salmon
 
 ## define directories
-REFDIR=/u/nobackup/dhg/sparhami/tools/SalmonTE/reference/scripts
+RBDIR=/u/nobackup/dhg/sparhami/tools/RepBase
 BASEDIR=/u/project/geschwind/gandalm/NHP_MIA_RNAseq
 FQDIR=$BASEDIR/data/fastq_unzipped
+
 
 FQ1_TXT=$BASEDIR/data/Salmon_DESeq2/fq1.txt
 FQ2_TXT=$BASEDIR/data/Salmon_DESeq2/fq2.txt
@@ -29,7 +30,7 @@ S=$(echo $S | sed 's/_cat_R1.fastq//')
 ## Salmon quantification
 ## -l/LibType for MMU fastqs ISR (inward, stranded, reverse)
 ## or set A to determine automatically
-$SALMON_BIN quant -i $REFDIR/mmu_index -l ISR -1 $INFQ1 -2 $INFQ2 -o $BASEDIR/data/Salmon_DESeq2/mmu_quant/$S
+$SALMON_BIN quant -i $RBDIR/primate_index -l ISR -1 $INFQ1 -2 $INFQ2 -o $BASEDIR/data/Salmon_DESeq2/quant_files/$S
 
 
 

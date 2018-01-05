@@ -1,0 +1,962 @@
+"","element","organism","class","superfamily","family"
+"1","ALU","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"2","Alu1_OG","Otolemur garnettii","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"3","Alu1_TS","Carlito syrichta","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"4","Alu2_OG","Otolemur garnettii","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"5","Alu2_TS","Carlito syrichta","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"6","Alu3_TS","Carlito syrichta","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"7","AluJb","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"8","AluJo","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"9","AluJr","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"10","AluJr4","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"11","AluJ_Mim","Microcebus murinus","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"12","AluMacYa3","Macaca","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"13","AluMacYb2","Macaca","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"14","AluMacYb4","Macaca","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"15","AluSc","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"16","AluSc5","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"17","AluSc8","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"18","AluSg","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"19","AluSg1","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"20","AluSg4","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"21","AluSg7","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"22","AluSp","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"23","AluSq","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"24","AluSq10","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"25","AluSq2","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"26","AluSq4","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"27","AluSx","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"28","AluSx1","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"29","AluSx3","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"30","AluSx4","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"31","AluSz","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"32","AluSz6","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"33","AluY","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"34","AluYa1","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"35","AluYa4","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"36","AluYa5","Homo sapiens","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"37","AluYa8","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"38","AluYb10","Homo sapiens","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"39","AluYb11","Homo sapiens","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"40","AluYb3a1","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"41","AluYb3a2","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"42","AluYb8","Homo sapiens","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"43","AluYb8a1","Homo sapiens","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"44","AluYb9","Homo sapiens","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"45","AluYbc3a","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"46","AluYc1","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"47","AluYc2","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"48","AluYc5","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"49","AluYd2","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"50","AluYd3","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"51","AluYd3a1","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"52","AluYd3a1_gib","Nomascus leucogenys","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"53","AluYd8","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"54","AluYe2","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"55","AluYe5","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"56","AluYf1","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"57","AluYf2","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"58","AluYf5","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"59","AluYg6","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"60","AluYh9","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"61","AluYi6","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"62","AluYk11","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"63","AluYk12","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"64","AluYk13","Homo sapiens","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"65","AmnSINE1_HS","Homo sapiens","Non-LTR Retrotransposon","SINE","SINE3/5S"
+"66","CERV1_INT","Pan troglodytes","Endogenous Retrovirus","ERV1",NA
+"67","CERV1_LTR","Pan troglodytes","Endogenous Retrovirus","ERV1",NA
+"68","CERV2_INT","Pan troglodytes","Endogenous Retrovirus","ERV2",NA
+"69","CERV2_LTR","Pan troglodytes","Endogenous Retrovirus","ERV2",NA
+"70","CHARLIE10","Homo sapiens","DNA transposon","hAT",NA
+"71","Charlie12","Primates","DNA transposon","hAT",NA
+"72","CHARLIE2A","Homo sapiens","DNA transposon","hAT",NA
+"73","CHARLIE2B","Homo sapiens","DNA transposon","hAT",NA
+"74","CHARLIE3","Homo sapiens","DNA transposon","hAT",NA
+"75","CHARLIE5","Homo sapiens","DNA transposon","hAT",NA
+"76","CHARLIE6","Homo sapiens","DNA transposon","hAT",NA
+"77","CHARLIE7","Homo sapiens","DNA transposon","hAT",NA
+"78","CHARLIE8","Homo sapiens","DNA transposon","hAT",NA
+"79","CHARLIE9","Homo sapiens","DNA transposon","hAT",NA
+"80","CHESHIRE","Homo sapiens","DNA transposon","hAT",NA
+"81","CHESHIRE_A","Homo sapiens","DNA transposon","hAT",NA
+"82","CHESHIRE_B","Homo sapiens","DNA transposon","hAT",NA
+"83","CR1_HS","Homo sapiens","Non-LTR Retrotransposon","CR1",NA
+"84","DNAX1_OG","Otolemur garnettii","DNA transposon",NA,NA
+"85","ERV1-1B_TSy-I","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"86","ERV1-1B_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"87","ERV1-1_CJa-I","Callithrix jacchus","Endogenous Retrovirus","ERV1",NA
+"88","ERV1-1_CJa-LTR","Callithrix jacchus","Endogenous Retrovirus","ERV1",NA
+"89","ERV1-1_TSy-I","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"90","ERV1-1_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"91","ERV1-2_CJa-I","Callithrix jacchus","Endogenous Retrovirus","ERV1",NA
+"92","ERV1-2_CJa-LTR","Callithrix jacchus","Endogenous Retrovirus","ERV1",NA
+"93","ERV1-2_TSy-I","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"94","ERV1-2_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"95","ERV1-3B_TSy-I","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"96","ERV1-3B_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"97","ERV1-3_CJ-I","Callithrix jacchus","Endogenous Retrovirus","ERV1",NA
+"98","ERV1-3_CJ-LTR","Callithrix jacchus","Endogenous Retrovirus","ERV1",NA
+"99","ERV1-3_TSy-I","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"100","ERV1-3_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"101","ERV1-4B_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"102","ERV1-4C_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"103","ERV1-4D_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"104","ERV1-4E_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"105","ERV1-4F_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"106","ERV1-4_TSy-I","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"107","ERV1-4_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"108","ERV1-5_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"109","ERV1-Mim_I","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"110","ERV1-Mim_LTR","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"111","ERV2-1B_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"112","ERV2-1_CJ-I","Callithrix jacchus","Endogenous Retrovirus","ERV2",NA
+"113","ERV2-1_CJ-LTR","Callithrix jacchus","Endogenous Retrovirus","ERV2",NA
+"114","ERV2-1_Mim-I","Microcebus murinus","Endogenous Retrovirus","ERV2",NA
+"115","ERV2-1_Mim-LTR","Microcebus murinus","Endogenous Retrovirus","ERV2",NA
+"116","ERV2-1_OG-I","Otolemur garnettii","Endogenous Retrovirus","ERV2",NA
+"117","ERV2-1_OG-LTR","Otolemur garnettii","Endogenous Retrovirus","ERV2",NA
+"118","ERV2-1_TSy-I","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"119","ERV2-1_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"120","ERV2-2_TSy-I","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"121","ERV2-2_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"122","ERV2-3_TSy-I","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"123","ERV2-3_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"124","ERV2-4_TSy-I","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"125","ERV2-4_TSy-LTR","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"126","ERV2N1-Mim_I","Microcebus murinus","Endogenous Retrovirus","ERV2",NA
+"127","ERV2N1-Mim_LTR","Microcebus murinus","Endogenous Retrovirus","ERV2",NA
+"128","ERV3-16A3_I","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"129","ERV3-16A3_LTR","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"130","ERVL","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"131","FAM","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"132","FLAM","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"133","FORDPREFECT","Homo sapiens","DNA transposon","hAT",NA
+"134","FORDPREFECT_A","Homo sapiens","DNA transposon","hAT",NA
+"135","FRAM","Primates","Non-LTR Retrotransposon","SINE","SINE1/7SL"
+"136","GarnAlu1","Otolemur garnettii","Non-LTR Retrotransposon","SINE","SINE2/tRNA"
+"137","GarnAlu2","Otolemur garnettii","Non-LTR Retrotransposon","SINE","SINE2/tRNA"
+"138","GarnAlu3","Otolemur garnettii","Non-LTR Retrotransposon","SINE","SINE2/tRNA"
+"139","GarnAlu3B","Otolemur garnettii","Non-LTR Retrotransposon","SINE","SINE2/tRNA"
+"140","Garnel1","Otolemur garnettii","Non-LTR Retrotransposon","SINE","SINE2/tRNA"
+"141","GOLEM_A","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"142","GOLEM_C","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"143","HAL1-1B_Cja","Callithrix jacchus","Non-LTR Retrotransposon","L1",NA
+"144","HAL1-1C_Cja","Callithrix jacchus","Non-LTR Retrotransposon","L1",NA
+"145","HAL1-1_Cja","Callithrix jacchus","Non-LTR Retrotransposon","L1",NA
+"146","HAL1B","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"147","HARLEQUIN","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"148","HARLEQUINLTR","Homo sapiens","LTR Retrotransposon",NA,NA
+"149","hAT-2N1_MM","Microcebus murinus","DNA transposon","hAT",NA
+"150","hAT-2N1_TS","Carlito syrichta","DNA transposon","hAT",NA
+"151","hAT-2N2_TS","Carlito syrichta","DNA transposon","hAT",NA
+"152","hAT-2N3_TS","Carlito syrichta","DNA transposon","hAT",NA
+"153","hAT-2_MM","Microcebus murinus","DNA transposon","hAT",NA
+"154","hAT-2_OG","Otolemur garnettii","DNA transposon","hAT",NA
+"155","hAT-2_TS","Carlito syrichta","DNA transposon","hAT",NA
+"156","HERV-Fc1","Hominidae","Endogenous Retrovirus","ERV1",NA
+"157","HERV-Fc2","Hominidae","Endogenous Retrovirus","ERV1",NA
+"158","HERV-K14CI","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"159","HERV-K14I","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"160","HERV15I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"161","HERV16","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"162","HERV17","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"163","HERV18","Homo sapiens","Endogenous Retrovirus",NA,NA
+"164","HERV19I","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"165","HERV1_I","Simiiformes","Endogenous Retrovirus","ERV1",NA
+"166","HERV1_LTR","Homo sapiens","Endogenous Retrovirus",NA,NA
+"167","HERV1_LTRb","Haplorrhini","Endogenous Retrovirus","ERV1",NA
+"168","HERV23","Homo sapiens","Endogenous Retrovirus",NA,NA
+"169","HERV3","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"170","HERV30I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"171","HERV35I","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"172","HERV38I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"173","HERV39","Homo sapiens","Endogenous Retrovirus",NA,NA
+"174","HERV46I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"175","HERV49I","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"176","HERV4_I","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"177","HERV4_LTR","Homo sapiens","Endogenous Retrovirus",NA,NA
+"178","HERV52I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"179","HERV57I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"180","HERV9","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"181","HERVE","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"182","HERVE_a","Catarrhini","Endogenous Retrovirus","ERV1",NA
+"183","HERVFH19I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"184","HERVG25","Homo sapiens","Endogenous Retrovirus",NA,NA
+"185","HERVH48I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"186","HERVI","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"187","HERVIP10F","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"188","HERVIP10FH","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"189","HERVK","Primates","Endogenous Retrovirus","ERV2",NA
+"190","HERVK11DI","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"191","HERVK11I","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"192","HERVK13I","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"193","HERVK3I","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"194","HERVK9I","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"195","HERVL","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"196","HERVL74","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"197","HERVL_40","Homo sapiens","Endogenous Retrovirus",NA,NA
+"198","HERVP71A_I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"199","HERVR","Papio hamadryas","Endogenous Retrovirus","ERV1",NA
+"200","HSMAR1","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"201","HSMAR2","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"202","HSTC2","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"203","HUERS-P1","Primates","Endogenous Retrovirus","ERV1",NA
+"204","HUERS-P2","Homo sapiens","Endogenous Retrovirus",NA,NA
+"205","HUERS-P3","Homo sapiens","LTR Retrotransposon",NA,NA
+"206","HUERS-P3B","Homo sapiens","Endogenous Retrovirus",NA,NA
+"207","IN25","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"208","KANGA2_A","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"209","L1","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"210","L1-1b_TS","Carlito syrichta","Non-LTR Retrotransposon","L1",NA
+"211","L1-1_Cja","Callithrix jacchus","Non-LTR Retrotransposon","L1",NA
+"212","L1-1_TS","Carlito syrichta","Non-LTR Retrotransposon","L1",NA
+"213","L1-2_Cja","Callithrix jacchus","Non-LTR Retrotransposon","L1",NA
+"214","L1-2_TS","Carlito syrichta","Non-LTR Retrotransposon","L1",NA
+"215","L1-3_TS","Carlito syrichta","Non-LTR Retrotransposon","L1",NA
+"216","L1-4_TS","Carlito syrichta","Non-LTR Retrotransposon","L1",NA
+"217","L1-5_TS","Carlito syrichta","Non-LTR Retrotransposon","L1",NA
+"218","L1-6_TS","Carlito syrichta","Non-LTR Retrotransposon","L1",NA
+"219","L1A_Mim","Microcebus murinus","Non-LTR Retrotransposon","L1",NA
+"220","L1B_Mim","Microcebus murinus","Non-LTR Retrotransposon","L1",NA
+"221","L1C_Mim","Microcebus murinus","Non-LTR Retrotransposon","L1",NA
+"222","L1HS","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"223","L1M1B_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"224","L1M2A1_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"225","L1M2A_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"226","L1M2B_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"227","L1M2C_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"228","L1M2_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"229","L1M3B_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"230","L1M3C_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"231","L1M4B","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"232","L1M6B_5end","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"233","L1MA1","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"234","L1MA2","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"235","L1MA3","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"236","L1MA4","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"237","L1MA4A","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"238","L1MA5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"239","L1MA5A","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"240","L1MA6","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"241","L1MA7","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"242","L1MA8","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"243","L1MA9","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"244","L1MB1","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"245","L1MB2","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"246","L1MB3","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"247","L1MB3_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"248","L1MB4","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"249","L1MB5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"250","L1MB8","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"251","L1MC1","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"252","L1MC2","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"253","L1MC4","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"254","L1MCA_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"255","L1MCB_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"256","L1MCC_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"257","L1MD1","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"258","L1MD2","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"259","L1MD3","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"260","L1MDB_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"261","L1ME1","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"262","L1ME2","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"263","L1ME3","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"264","L1ME3A","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"265","L1ME4A","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"266","L1MEA_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"267","L1MEB_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"268","L1MED_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"269","L1MEE_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"270","L1ME_ORF2","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"271","L1P4a_5end","Primates","Non-LTR Retrotransposon","L1",NA
+"272","L1P4b_5end","Primates","Non-LTR Retrotransposon","L1",NA
+"273","L1P4c_5end","Primates","Non-LTR Retrotransposon","L1",NA
+"274","L1P4d_5end","Primates","Non-LTR Retrotransposon","L1",NA
+"275","L1P4e_5end","Primates","Non-LTR Retrotransposon","L1",NA
+"276","L1PA10","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"277","L1PA11","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"278","L1PA12","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"279","L1PA12_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"280","L1PA13","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"281","L1PA13_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"282","L1PA14","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"283","L1PA14_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"284","L1PA15","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"285","L1PA16","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"286","L1PA16_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"287","L1PA17_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"288","L1PA2","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"289","L1PA3","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"290","L1PA4","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"291","L1PA5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"292","L1PA6","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"293","L1PA7","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"294","L1PA7_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"295","L1PA8","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"296","L1PB1","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"297","L1PB2","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"298","L1PB2c","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"299","L1PB3","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"300","L1PB4","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"301","L1PBA1_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"302","L1PBA_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"303","L1PBB_5","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"304","L1PREC1","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"305","L1PREC2","Homo sapiens","Non-LTR Retrotransposon","L1",NA
+"306","L1Pt","Pan troglodytes","Non-LTR Retrotransposon","L1",NA
+"307","L1Pt_5end","Pan troglodytes","Non-LTR Retrotransposon","L1",NA
+"308","L1_RS1_5end","Cercopithecinae","Non-LTR Retrotransposon","L1",NA
+"309","L3","Homo sapiens","Non-LTR Retrotransposon","CR1",NA
+"310","LOOPER","Homo sapiens","DNA transposon",NA,NA
+"311","LOR1","Homo sapiens","LTR Retrotransposon",NA,NA
+"312","LOR1a_LTR","Primates","Endogenous Retrovirus","ERV1",NA
+"313","LOR1b_LTR","Primates","Endogenous Retrovirus","ERV1",NA
+"314","LOR1I","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"315","LTR06","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"316","LTR1","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"317","LTR10B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"318","LTR10B1","Primates","Endogenous Retrovirus","ERV1",NA
+"319","LTR10B2","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"320","LTR10B_Mim","Microcebus murinus","Endogenous Retrovirus","ERV2",NA
+"321","LTR10C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"322","LTR10D","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"323","LTR10F","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"324","LTR10_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV3",NA
+"325","LTR10_Mim","Microcebus murinus","Endogenous Retrovirus","ERV2",NA
+"326","LTR10_OG","Otolemur garnettii","Endogenous Retrovirus","ERV2",NA
+"327","LTR10_TS","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"328","LTR11","Homo sapiens","LTR Retrotransposon",NA,NA
+"329","LTR11_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV1",NA
+"330","LTR11_Mim","Microcebus murinus","Endogenous Retrovirus","ERV3",NA
+"331","LTR11_OG","Otolemur garnettii","Endogenous Retrovirus","ERV3",NA
+"332","LTR11_TS","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"333","LTR12","Primates","Endogenous Retrovirus","ERV1",NA
+"334","LTR12B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"335","LTR12C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"336","LTR12D","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"337","LTR12E","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"338","LTR12F","Primates","Endogenous Retrovirus","ERV1",NA
+"339","LTR12_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV1",NA
+"340","LTR12_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"341","LTR12_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"342","LTR12_TS","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"343","LTR13","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"344","LTR13A","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"345","LTR13B1_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"346","LTR13B2_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"347","LTR13B_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"348","LTR13C1a_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"349","LTR13C1_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"350","LTR13C_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"351","LTR13_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"352","LTR13_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"353","LTR13_TS","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"354","LTR14","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"355","LTR14A","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"356","LTR14B","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"357","LTR14B_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"358","LTR14C","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"359","LTR14C1a_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"360","LTR14C1_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"361","LTR14C2_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"362","LTR14C3_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"363","LTR14C_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"364","LTR14_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV2",NA
+"365","LTR14_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"366","LTR14_OG","Otolemur garnettii","Endogenous Retrovirus","ERV2",NA
+"367","LTR14_TS","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"368","LTR15","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"369","LTR15B_OG","Otolemur garnettii","Endogenous Retrovirus","ERV2",NA
+"370","LTR15_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV1",NA
+"371","LTR15_Mim","Microcebus murinus","Endogenous Retrovirus","ERV2",NA
+"372","LTR15_OG","Otolemur garnettii","Endogenous Retrovirus","ERV2",NA
+"373","LTR16","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"374","LTR16A1","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"375","LTR16A2","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"376","LTR16C","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"377","LTR16D","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"378","LTR16E","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"379","LTR16_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"380","LTR16_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"381","LTR17","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"382","LTR17B_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"383","LTR17_Mim","Microcebus murinus","Endogenous Retrovirus","ERV3",NA
+"384","LTR17_OG","Otolemur garnettii","Endogenous Retrovirus","ERV2",NA
+"385","LTR18A","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"386","LTR18B","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"387","LTR18C","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"388","LTR18_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV2",NA
+"389","LTR18_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"390","LTR18_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"391","LTR19A","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"392","LTR19B","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"393","LTR19C","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"394","LTR19_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"395","LTR19_OG","Otolemur garnettii","Endogenous Retrovirus","ERV2",NA
+"396","LTR1A2","Primates","Endogenous Retrovirus","ERV1",NA
+"397","LTR1A2b_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"398","LTR1A2_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"399","LTR1A3b_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"400","LTR1A3_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"401","LTR1A_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"402","LTR1B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"403","LTR1B0","Primates","Endogenous Retrovirus","ERV1",NA
+"404","LTR1B1","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"405","LTR1B1a_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"406","LTR1B1_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"407","LTR1B2_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"408","LTR1B_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"409","LTR1B_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"410","LTR1C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"411","LTR1C1","Primates","Endogenous Retrovirus","ERV1",NA
+"412","LTR1C1_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"413","LTR1C2","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"414","LTR1C2_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"415","LTR1C3","Primates","Endogenous Retrovirus","ERV1",NA
+"416","LTR1C3_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"417","LTR1C4_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"418","LTR1C5_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"419","LTR1C6_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"420","LTR1C_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"421","LTR1D","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"422","LTR1D1","Primates","Endogenous Retrovirus","ERV1",NA
+"423","LTR1D_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"424","LTR1E","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"425","LTR1F","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"426","LTR1F1","Primates","Endogenous Retrovirus","ERV1",NA
+"427","LTR1F2","Primates","Endogenous Retrovirus","ERV1",NA
+"428","LTR1_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"429","LTR1_TS","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"430","LTR2","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"431","LTR20B_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"432","LTR20C_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"433","LTR20_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"434","LTR20_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"435","LTR21A","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"436","LTR21B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"437","LTR21B_TS","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"438","LTR21C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"439","LTR21_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV3",NA
+"440","LTR21_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"441","LTR21_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"442","LTR21_TS","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"443","LTR22","Primates","Endogenous Retrovirus","ERV2",NA
+"444","LTR22A","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"445","LTR22B","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"446","LTR22B1","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"447","LTR22B2","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"448","LTR22B_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV2",NA
+"449","LTR22B_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"450","LTR22B_TS","Carlito syrichta","Endogenous Retrovirus","ERV3",NA
+"451","LTR22C","Primates","Endogenous Retrovirus","ERV2",NA
+"452","LTR22C0","Hominidae","Endogenous Retrovirus","ERV2",NA
+"453","LTR22C2","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"454","LTR22E","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"455","LTR22_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV2",NA
+"456","LTR22_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"457","LTR22_TS","Carlito syrichta","Endogenous Retrovirus","ERV3",NA
+"458","LTR23","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"459","LTR23_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"460","LTR24","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"461","LTR24B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"462","LTR24C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"463","LTR24_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"464","LTR24_TS","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"465","LTR25","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"466","LTR25-int","Primates","Endogenous Retrovirus","ERV1",NA
+"467","LTR25_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"468","LTR25_TS","Carlito syrichta","Endogenous Retrovirus","ERV3",NA
+"469","LTR26","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"470","LTR26B","Primates","Endogenous Retrovirus","ERV1",NA
+"471","LTR26E","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"472","LTR27","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"473","LTR2752","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"474","LTR27B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"475","LTR27C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"476","LTR27D","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"477","LTR27D1_TS","Carlito syrichta","Endogenous Retrovirus",NA,NA
+"478","LTR27D_TS","Carlito syrichta","Endogenous Retrovirus",NA,NA
+"479","LTR27E","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"480","LTR28","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"481","LTR28B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"482","LTR28C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"483","LTR29","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"484","LTR2A_OG","Otolemur garnettii","Endogenous Retrovirus","ERV2",NA
+"485","LTR2B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"486","LTR2B1_Mim","Microcebus murinus","Endogenous Retrovirus","ERV2",NA
+"487","LTR2B2_OG","Otolemur garnettii","Endogenous Retrovirus","ERV2",NA
+"488","LTR2B_Mim","Microcebus murinus","Endogenous Retrovirus","ERV2",NA
+"489","LTR2B_OG","Otolemur garnettii","Endogenous Retrovirus","ERV2",NA
+"490","LTR2C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"491","LTR2C_Mim","Microcebus murinus","Endogenous Retrovirus","ERV2",NA
+"492","LTR2C_OG","Otolemur garnettii","Endogenous Retrovirus","ERV2",NA
+"493","LTR2_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV1",NA
+"494","LTR2_Mim","Microcebus murinus","Endogenous Retrovirus","ERV2",NA
+"495","LTR2_TS","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"496","LTR3","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"497","LTR30","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"498","LTR31","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"499","LTR32","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"500","LTR34","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"501","LTR34_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"502","LTR35","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"503","LTR35A","Primates","Endogenous Retrovirus","ERV1",NA
+"504","LTR35B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"505","LTR36","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"506","LTR37A","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"507","LTR37B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"508","LTR38","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"509","LTR38A1","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"510","LTR38B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"511","LTR38C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"512","LTR39","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"513","LTR39_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"514","LTR3A","Primates","Endogenous Retrovirus","ERV2",NA
+"515","LTR3B","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"516","LTR3D_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV1",NA
+"517","LTR3_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV1",NA
+"518","LTR3_Mim","Microcebus murinus","Endogenous Retrovirus","ERV2",NA
+"519","LTR4","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"520","LTR40A","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"521","LTR40B","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"522","LTR40C","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"523","LTR41","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"524","LTR41B","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"525","LTR41C","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"526","LTR41_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"527","LTR42","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"528","LTR43","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"529","LTR43B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"530","LTR43_I","Primates","Endogenous Retrovirus","ERV1",NA
+"531","LTR44","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"532","LTR45","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"533","LTR45B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"534","LTR45C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"535","LTR46","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"536","LTR46_Mim","Microcebus murinus","Endogenous Retrovirus","ERV2",NA
+"537","LTR47A","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"538","LTR47A2","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"539","LTR47B","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"540","LTR47B2","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"541","LTR48","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"542","LTR48B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"543","LTR49","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"544","LTR4_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV2",NA
+"545","LTR4_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"546","LTR4_TS","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"547","LTR5","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"548","LTR50","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"549","LTR50_Mim","Microcebus murinus","Endogenous Retrovirus","ERV2",NA
+"550","LTR51","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"551","LTR52","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"552","LTR53","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"553","LTR53B","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"554","LTR54_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"555","LTR55","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"556","LTR56","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"557","LTR57","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"558","LTR57_Mim","Microcebus murinus","Endogenous Retrovirus","ERV3",NA
+"559","LTR58","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"560","LTR59","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"561","LTR5A","Primates","Endogenous Retrovirus","ERV2",NA
+"562","LTR5B","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"563","LTR5B1_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV3",NA
+"564","LTR5B_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV3",NA
+"565","LTR5B_Mim","Microcebus murinus","Endogenous Retrovirus","ERV3",NA
+"566","LTR5C_Mim","Microcebus murinus","Endogenous Retrovirus","ERV3",NA
+"567","LTR5_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV3",NA
+"568","LTR5_Hs","Primates","Endogenous Retrovirus","ERV2",NA
+"569","LTR5_Mim","Microcebus murinus","Endogenous Retrovirus","ERV3",NA
+"570","LTR5_RM","Macaca mulatta","Endogenous Retrovirus","ERV2",NA
+"571","LTR5_TS","Carlito syrichta","Endogenous Retrovirus","ERV3",NA
+"572","LTR60","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"573","LTR60B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"574","LTR61","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"575","LTR62","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"576","LTR64","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"577","LTR65","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"578","LTR66","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"579","LTR69","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"580","LTR6A","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"581","LTR6B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"582","LTR6B_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"583","LTR6_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV1",NA
+"584","LTR6_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"585","LTR6_TS","Carlito syrichta","Endogenous Retrovirus","ERV3",NA
+"586","LTR70","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"587","LTR71A","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"588","LTR71B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"589","LTR71B_TS","Carlito syrichta","Endogenous Retrovirus",NA,NA
+"590","LTR71C_TS","Carlito syrichta","Endogenous Retrovirus",NA,NA
+"591","LTR71_TS","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"592","LTR72","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"593","LTR72B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"594","LTR73","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"595","LTR75","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"596","LTR75B","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"597","LTR76","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"598","LTR77","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"599","LTR77-int_TS","Carlito syrichta","Endogenous Retrovirus",NA,NA
+"600","LTR77a-int_TS","Carlito syrichta","Endogenous Retrovirus",NA,NA
+"601","LTR77a_TS","Carlito syrichta","Endogenous Retrovirus",NA,NA
+"602","LTR77B","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"603","LTR77b_TS","Carlito syrichta","Endogenous Retrovirus",NA,NA
+"604","LTR77c_TS","Carlito syrichta","Endogenous Retrovirus",NA,NA
+"605","LTR77d_TS","Carlito syrichta","Endogenous Retrovirus",NA,NA
+"606","LTR77_TS","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"607","LTR78B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"608","LTR7A","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"609","LTR7A2_OG","Otolemur garnettii","Endogenous Retrovirus","ERV3",NA
+"610","LTR7A_OG","Otolemur garnettii","Endogenous Retrovirus","ERV3",NA
+"611","LTR7B","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"612","LTR7B_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV2",NA
+"613","LTR7B_OG","Otolemur garnettii","Endogenous Retrovirus","ERV3",NA
+"614","LTR7C","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"615","LTR7C_OG","Otolemur garnettii","Endogenous Retrovirus","ERV3",NA
+"616","LTR7D_OG","Otolemur garnettii","Endogenous Retrovirus","ERV3",NA
+"617","LTR7Y","Primates","Endogenous Retrovirus","ERV3",NA
+"618","LTR7_Mim","Microcebus murinus","Endogenous Retrovirus","ERV3",NA
+"619","LTR7_TS","Carlito syrichta","Endogenous Retrovirus","ERV3",NA
+"620","LTR8","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"621","LTR81AB","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"622","LTR8A","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"623","LTR8B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"624","LTR8B_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"625","LTR8B_TS","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"626","LTR8C_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"627","LTR8D_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"628","LTR8E_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"629","LTR8_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"630","LTR8_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"631","LTR8_TS","Carlito syrichta","Endogenous Retrovirus","ERV2",NA
+"632","LTR9","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"633","LTR91","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"634","LTR9A1","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"635","LTR9B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"636","LTR9B_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"637","LTR9C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"638","LTR9D","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"639","LTR9_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"640","LTR9_OG","Otolemur garnettii","Endogenous Retrovirus","ERV3",NA
+"641","LTR9_TS","Carlito syrichta","Endogenous Retrovirus","ERV1",NA
+"642","MacERV1_int","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"643","MacERV1_LTR1","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"644","MacERV1_LTR2","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"645","MacERV1_LTR2a","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"646","MacERV1_LTR2b","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"647","MacERV1_LTR3a","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"648","MacERV1_LTR3b","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"649","MacERV1_LTR3c","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"650","MacERV1_LTR4a","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"651","MacERV1_LTR4b","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"652","MacERV1_LTR4c","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"653","MacERV1_LTR4d","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"654","MacERV2_int","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"655","MacERV2_LTR1","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"656","MacERV2_LTR2","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"657","MacERV2_LTR2a","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"658","MacERV2_LTR3","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"659","MacERV2_LTR3a","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"660","MacERV2_LTR4","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"661","MacERV3_int","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"662","MacERV3_LTR1","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"663","MacERV3_LTR2","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"664","MacERV3_LTR3","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"665","MacERV4_int","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"666","MacERV4_LTR1a","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"667","MacERV4_LTR1b","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"668","MacERV4_LTR2","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"669","MacERV4_LTR3","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"670","MacERV4_LTR4","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"671","MacERV5a","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"672","MacERV5a_LTR","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"673","MacERV5b","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"674","MacERV5b_LTR","Cercopithecidae","Endogenous Retrovirus","ERV1",NA
+"675","MacERV6","Cercopithecidae","Endogenous Retrovirus","ERV3",NA
+"676","MacERV6_LTR1a","Cercopithecidae","Endogenous Retrovirus","ERV3",NA
+"677","MacERV6_LTR1b","Cercopithecidae","Endogenous Retrovirus","ERV3",NA
+"678","MacERV6_LTR2a","Cercopithecidae","Endogenous Retrovirus","ERV3",NA
+"679","MacERV6_LTR2b","Cercopithecidae","Endogenous Retrovirus","ERV3",NA
+"680","MacERV6_LTR2c","Cercopithecidae","Endogenous Retrovirus","ERV3",NA
+"681","MacERV6_LTR3","Cercopithecidae","Endogenous Retrovirus","ERV3",NA
+"682","MacERV6_LTR4","Cercopithecidae","Endogenous Retrovirus","ERV3",NA
+"683","MacERV6_LTR5","Cercopithecidae","Endogenous Retrovirus","ERV3",NA
+"684","MacERVK1","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"685","MacERVK1_LTR1","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"686","MacERVK1_LTR1a","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"687","MacERVK1_LTR1b","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"688","MacERVK1_LTR1c","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"689","MacERVK1_LTR1d","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"690","MacERVK1_LTR1e","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"691","MacERVK2","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"692","MacERVK2_LTR1a","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"693","MacERVK2_LTR1b","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"694","MacERVK2_LTR1c","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"695","MacNERVK1","Cercopithecidae","Endogenous Retrovirus","ERV2",NA
+"696","MADE1","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"697","MARNA","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"698","MER101","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"699","MER101B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"700","MER101_I","Primates","Endogenous Retrovirus","ERV1",NA
+"701","MER103B","Homo sapiens","DNA transposon","hAT",NA
+"702","MER103C","Homo sapiens","DNA transposon","hAT",NA
+"703","MER106","Homo sapiens","DNA transposon","hAT",NA
+"704","MER106B","Homo sapiens","DNA transposon","hAT",NA
+"705","MER107","Homo sapiens","DNA transposon","hAT",NA
+"706","MER110","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"707","MER110A","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"708","MER110I","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"709","MER112","Homo sapiens","DNA transposon","hAT",NA
+"710","MER113","Homo sapiens","DNA transposon","hAT",NA
+"711","MER113B","Homo sapiens","DNA transposon","hAT",NA
+"712","MER117","Homo sapiens","DNA transposon","hAT",NA
+"713","MER119","Homo sapiens","DNA transposon","hAT",NA
+"714","MER11A","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"715","MER11B","Primates","Endogenous Retrovirus","ERV2",NA
+"716","MER11C","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"717","MER11D","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"718","MER1A","Homo sapiens","DNA transposon","hAT",NA
+"719","MER1B","Homo sapiens","DNA transposon","hAT",NA
+"720","MER20","Homo sapiens","DNA transposon","hAT",NA
+"721","MER20B","Homo sapiens","DNA transposon","hAT",NA
+"722","MER21","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"723","MER21A","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"724","MER21I","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"725","MER28","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"726","MER30B","Homo sapiens","DNA transposon","hAT",NA
+"727","MER31","Homo sapiens","Endogenous Retrovirus",NA,NA
+"728","MER31B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"729","MER31_I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"730","MER33","Homo sapiens","DNA transposon","hAT",NA
+"731","MER34","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"732","MER34B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"733","MER34B_I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"734","MER34C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"735","MER34C2","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"736","MER34D","Primates","Endogenous Retrovirus","ERV1",NA
+"737","MER39","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"738","MER39B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"739","MER41A","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"740","MER41B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"741","MER41B1_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"742","MER41B2_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"743","MER41B_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"744","MER41C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"745","MER41D","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"746","MER41E","Primates","Endogenous Retrovirus","ERV1",NA
+"747","MER41F","Homo sapiens","Endogenous Retrovirus",NA,NA
+"748","MER41G","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"749","MER41G_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"750","MER41I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"751","MER44A","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"752","MER44B","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"753","MER44C","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"754","MER45","Homo sapiens","DNA transposon","hAT",NA
+"755","MER45B","Homo sapiens","DNA transposon",NA,NA
+"756","MER45C","Homo sapiens","DNA transposon","hAT",NA
+"757","MER45R","Homo sapiens","DNA transposon",NA,NA
+"758","MER48","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"759","MER49","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"760","MER4A","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"761","MER4A1","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"762","MER4A1_LTR","Primates","Endogenous Retrovirus","ERV1",NA
+"763","MER4B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"764","MER4BI","Homo sapiens","Endogenous Retrovirus",NA,NA
+"765","MER4C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"766","MER4CL34","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"767","MER4D","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"768","MER4D1","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"769","MER4D_LTR","Primates","Endogenous Retrovirus","ERV1",NA
+"770","MER4E","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"771","MER4E1","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"772","MER4I","Homo sapiens","LTR Retrotransposon",NA,NA
+"773","MER4_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"774","MER50","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"775","MER50B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"776","MER50C","Primates","Endogenous Retrovirus","ERV1",NA
+"777","MER50I","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"778","MER51A","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"779","MER51B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"780","MER51C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"781","MER51D","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"782","MER51E","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"783","MER51I","Homo sapiens","LTR Retrotransposon",NA,NA
+"784","MER52A","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"785","MER52AI","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"786","MER52B","Homo sapiens","LTR Retrotransposon",NA,NA
+"787","MER52C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"788","MER52D","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"789","MER53","Homo sapiens","DNA transposon",NA,NA
+"790","MER54","Homo sapiens",NA,NA,NA
+"791","MER54A","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"792","MER54B","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"793","MER57A1","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"794","MER57A_I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"795","MER57B2","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"796","MER57F","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"797","MER57I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"798","MER5B","Homo sapiens","DNA transposon","hAT",NA
+"799","MER61A","Homo sapiens","Endogenous Retrovirus",NA,NA
+"800","MER61B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"801","MER61C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"802","MER61D","Homo sapiens","LTR Retrotransposon",NA,NA
+"803","MER61E","Homo sapiens","LTR Retrotransposon",NA,NA
+"804","MER61F","Homo sapiens","LTR Retrotransposon",NA,NA
+"805","MER61I","Homo sapiens","LTR Retrotransposon",NA,NA
+"806","MER63A","Homo sapiens","DNA transposon",NA,NA
+"807","MER63B","Homo sapiens","DNA transposon",NA,NA
+"808","MER63D","Homo sapiens","DNA transposon","hAT",NA
+"809","MER65B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"810","MER65C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"811","MER65D","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"812","MER65_Cja","Callithrix jacchus","Endogenous Retrovirus","ERV1",NA
+"813","MER66A","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"814","MER66B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"815","MER66C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"816","MER66D","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"817","MER66_I","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"818","MER67A","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"819","MER67B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"820","MER67C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"821","MER67D","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"822","MER68B","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"823","MER68C","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"824","MER69C","Homo sapiens","DNA transposon","hAT",NA
+"825","MER6A","Primates","DNA transposon","Mariner/Tc1",NA
+"826","MER6B","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"827","MER70A","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"828","MER70B","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"829","MER70C","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"830","MER72","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"831","MER72B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"832","MER72B_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"833","MER72_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"834","MER73","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"835","MER74B","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"836","MER74C","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"837","MER75","Homo sapiens","DNA transposon","piggyBac",NA
+"838","MER75A","Primates","DNA transposon","piggyBac",NA
+"839","MER75B","Homo sapiens","DNA transposon",NA,NA
+"840","MER76","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"841","MER77","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"842","MER8","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"843","MER80B","Homo sapiens","DNA transposon","hAT",NA
+"844","MER81","Homo sapiens","DNA transposon","hAT",NA
+"845","MER83","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"846","MER83AI","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"847","MER83B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"848","MER83BI","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"849","MER83C","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"850","MER84","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"851","MER84I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"852","MER85","Homo sapiens","DNA transposon",NA,NA
+"853","MER87","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"854","MER87B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"855","MER87_OG","Otolemur garnettii","Endogenous Retrovirus","ERV1",NA
+"856","MER88","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"857","MER89","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"858","MER89I","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"859","MER9","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"860","MER90","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"861","MER91A","Homo sapiens","DNA transposon","hAT",NA
+"862","MER91C","Homo sapiens","DNA transposon","hAT",NA
+"863","MER92A","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"864","MER92B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"865","MER94","Homo sapiens","DNA transposon","hAT",NA
+"866","MER94B","Homo sapiens","DNA transposon","hAT",NA
+"867","MER95","Homo sapiens","LTR Retrotransposon",NA,NA
+"868","MER96","Homo sapiens","DNA transposon","hAT",NA
+"869","MER96B","Homo sapiens","DNA transposon","hAT",NA
+"870","MER97A","Homo sapiens","DNA transposon","hAT",NA
+"871","MER97B","Homo sapiens","DNA transposon","hAT",NA
+"872","MER97C","Homo sapiens","DNA transposon","hAT",NA
+"873","MER99","Homo sapiens","DNA transposon",NA,NA
+"874","MER9a1","Catarrhini","Endogenous Retrovirus","ERV2",NA
+"875","MER9a2","Catarrhini","Endogenous Retrovirus","ERV2",NA
+"876","MER9a3","Catarrhini","Endogenous Retrovirus","ERV2",NA
+"877","MER9B","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"878","Merlin1_HS","Homo sapiens","DNA transposon","Merlin",NA
+"879","MLT1G","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"880","MLT1G1","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"881","MLT1G2","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"882","MLT1G3","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"883","MLT1H","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"884","MLT1H1","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"885","MLT1H2","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"886","MLT1I","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"887","MLT1K","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"888","MLT1L","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"889","MLT1N2","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"890","MLT1_Mim","Microcebus murinus","Endogenous Retrovirus","ERV1",NA
+"891","MLT2A1","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"892","MLT2A2","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"893","MLT2C2","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"894","MLT2D","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"895","MSTA","Primates","Endogenous Retrovirus","ERV3",NA
+"896","MSTA1","Primates","Endogenous Retrovirus","ERV3",NA
+"897","MSTA2","Primates","Endogenous Retrovirus","ERV3",NA
+"898","MSTB","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"899","MSTB1","Primates","Endogenous Retrovirus","ERV3",NA
+"900","MSTD","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"901","npiggy1_Mm","Microcebus murinus","DNA transposon","piggyBac",NA
+"902","npiggy2_Mm","Microcebus murinus","DNA transposon","piggyBac",NA
+"903","npiggy3_Mm","Microcebus murinus","DNA transposon","piggyBac",NA
+"904","PABL_A","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"905","PABL_AI","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"906","PABL_B","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"907","PABL_BI","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"908","piggyBac1_Mm","Microcebus murinus","DNA transposon","piggyBac",NA
+"909","piggyBac2b_Mm","Microcebus murinus","DNA transposon","piggyBac",NA
+"910","piggyBac2_Mm","Microcebus murinus","DNA transposon","piggyBac",NA
+"911","piggyBac_2a_Mm","Microcebus murinus","DNA transposon","piggyBac",NA
+"912","PMER1","Strepsirrhini","DNA transposon",NA,NA
+"913","PRIMA41","Homo sapiens","Endogenous Retrovirus",NA,NA
+"914","PRIMA4_I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"915","PRIMA4_LTR","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"916","PRIMAX_I","Homo sapiens","Endogenous Retrovirus",NA,NA
+"917","PrimLTR79","Homo sapiens","Endogenous Retrovirus","ERV1",NA
+"918","pSIVgml-I","Microcebus murinus","Endogenous Retrovirus","Lentivirus",NA
+"919","pSIVgml-LTR","Microcebus murinus","Endogenous Retrovirus","Lentivirus",NA
+"920","PTERV1a","Pan troglodytes","Endogenous Retrovirus","ERV1",NA
+"921","PTERV1c","Pan troglodytes","Endogenous Retrovirus","ERV1",NA
+"922","PTERV1c_LTR","Pan troglodytes","Endogenous Retrovirus","ERV1",NA
+"923","PTERV1d","Pan troglodytes","Endogenous Retrovirus","ERV1",NA
+"924","PTERV2a","Pan troglodytes","Endogenous Retrovirus","ERV1",NA
+"925","PTERV2a_LTR","Pan troglodytes","Endogenous Retrovirus","ERV1",NA
+"926","PTERV2b","Pan troglodytes","Endogenous Retrovirus","ERV1",NA
+"927","PTERV2b_LTR","Pan troglodytes","Endogenous Retrovirus","ERV1",NA
+"928","PTERV2c_LTR","Pan troglodytes","Endogenous Retrovirus","ERV1",NA
+"929","PTR5","Homo sapiens","LTR Retrotransposon",NA,NA
+"930","RLTR10B","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"931","RLTR10C","Homo sapiens","Endogenous Retrovirus","ERV2",NA
+"932","RMER10B","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"933","RTVL-Ib_I","Pan troglodytes","Endogenous Retrovirus","ERV1",NA
+"934","SPIN_NA_1_Og","Otolemur garnettii","DNA transposon","hAT",NA
+"935","SPIN_NA_2_Og","Otolemur garnettii","DNA transposon","hAT",NA
+"936","SPIN_Og","Otolemur garnettii","DNA transposon","hAT",NA
+"937","SVA_A","Homo sapiens","Non-LTR Retrotransposon","SINE",NA
+"938","SVA_B","Homo sapiens","Non-LTR Retrotransposon","SINE",NA
+"939","SVA_C","Homo sapiens","Non-LTR Retrotransposon","SINE",NA
+"940","SVA_D","Homo sapiens","Non-LTR Retrotransposon","SINE",NA
+"941","SVA_E","Homo sapiens","Non-LTR Retrotransposon","SINE",NA
+"942","SVA_F","Homo sapiens","Non-LTR Retrotransposon","SINE",NA
+"943","THE1A","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"944","THE1B","Hominidae","Endogenous Retrovirus","ERV3",NA
+"945","THE1C","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"946","THE1D","Homo sapiens","Endogenous Retrovirus","ERV3",NA
+"947","THE1_I","Homo sapiens","LTR Retrotransposon",NA,NA
+"948","TIGGER1","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"949","TIGGER2","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"950","Tigger2b_Pri","Primates","DNA transposon","Mariner/Tc1",NA
+"951","Tigger3b","Primates","DNA transposon","Mariner/Tc1",NA
+"952","Tigger3c","Primates","DNA transposon","Mariner/Tc1",NA
+"953","Tigger3d","Primates","DNA transposon","Mariner/Tc1",NA
+"954","Tigger4a","Primates","DNA transposon","Mariner/Tc1",NA
+"955","TIGGER5","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"956","TIGGER6B","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"957","TIGGER7","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"958","TIGGER8","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"959","TIGGER9","Homo sapiens","DNA transposon","Mariner/Tc1",NA
+"960","ZAPHOD","Homo sapiens","DNA transposon",NA,NA
+"961","ZOMBI_A","Homo sapiens","DNA transposon","Mariner/Tc1",NA
