@@ -2,6 +2,9 @@
 ## prepare and submit batch job for Salmon quantification of TEs
 
 
+# /u/project/geschwind/gandalm/RefGenome/Macaca_mulatta/Mmul_8/Sequence/WholeGenomeFasta/Macaca_mulatta.Mmul_8.0.1.cdna.all.fa.gz
+
+
 SALMON_BIN=/u/nobackup/dhg/Software/salmon/Salmon-0.7.2_linux_x86_64/bin/salmon
 
 ## define directories
